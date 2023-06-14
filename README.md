@@ -1,5 +1,5 @@
 # SuperU Assignment
-/*
+
 ## Steps to setup the project:
 
 1. Clone the project
@@ -9,7 +9,7 @@
 3. Run the project using command - ***python3 manage.py runserver***
 4. To execute the unit test cases -  ***python3 manage.py test***
 
-*/
+
 
 
 ## API Details
